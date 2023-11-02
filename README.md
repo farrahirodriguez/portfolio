@@ -1,3 +1,2 @@
 # Farrah Rodriguez - Portfolio
-
-- Currently under Construction - 
+Currently under Construction
