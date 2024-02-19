@@ -1,6 +1,7 @@
 # Farrah Rodriguez Undergraduate Portfolio
 
-This is the Technical Portfolio of Farrah Rodriguez.
-It consists of 3 different projects.
+NOTICE: Currently migrating to my website --> https://frodriguezportfolio.carrd.co/
+Please refer to my website, if you were directed here.
 
-For a view with images, check out my website @ ...
+Thank you,
+Farrah Rodriguez
