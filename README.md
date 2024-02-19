@@ -1,7 +1,7 @@
 # Farrah Rodriguez Undergraduate Portfolio
 
-NOTICE: Currently migrating to my website --> https://frodriguezportfolio.carrd.co/
-Please refer to my website, if you were directed here.
+NOTICE: This portfolio has been migrated to this site --> https://frodriguezportfolio.carrd.co/
+Please refer to that link, if you were directed here.
 
-Thank you,
+My apologies and Thank you,
 Farrah Rodriguez
