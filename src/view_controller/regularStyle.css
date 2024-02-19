@@ -1,0 +1,132 @@
+.root{
+    -fx-background-color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+
+/* Label */
+.label{
+    -fx-text-fill: #333333;
+}
+
+/* Pane */
+.pane-grid{
+    -fx-background-color: #F5F5F5;
+    background-color: #F5F5F5;
+}
+
+/* GridPane */
+.tab-pane-grid{
+    -fx-background-color: #F5F5F5;
+    background-color: #F5F5F5;
+    -fx-background-insets: 3 0 0 0;
+}
+
+/* TextField */
+.text-field{
+    -fx-background-radius: 0;
+    -fx-border-width: 1;
+    border-width: 1;
+    -fx-border-color: #CCCCCC;
+    border-color: #CCCCCC;
+    -fx-background-color: #FFFFFF;
+    background-color: #FFFFFF;
+    -fx-text-fill: #333333;
+    -fx-highlight-fill: #EFEFEF;
+    -fx-min-height: 25;
+    min-height: 25;
+    -fx-pref-height: 25;
+}
+
+.text-field:hover{
+     -fx-border-color: #CCCCCC;
+     border-color: #CCCCCC;
+     -fx-background-color: #EFEFEF;
+     background-color: #EFEFEF;
+}
+
+.text-field:focused{
+    -fx-border-color: #333333;
+    border-color: #333333;
+    -fx-background-color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+
+/* Button */
+.button{
+    -fx-border-width: 1;
+    border-width: 1;
+    -fx-border-color: #888888;
+    border-color: #888888;
+    -fx-background-color: #FFFFFF;
+    background-color: #FFFFFF;
+    -fx-text-fill: #333333;
+    -fx-min-height: 32;
+    min-height: 32;
+    -fx-pref-height: 32;
+}
+
+.button:focused{
+    -fx-border-color: #333333;
+    border-color: #333333;
+    -fx-background-color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+
+.button:hover{
+    -fx-border-color: #888888;
+    border-color: #888888;
+    -fx-background-color: #EFEFEF;
+    background-color: #EFEFEF;
+    -fx-cursor: HAND;
+    cursor: HAND;
+}
+
+.button:pressed{
+    -fx-border-color: #333333;
+    border-color: #333333;
+    -fx-background-color: #888888;
+    background-color: #888888;
+    -fx-cursor: HAND;
+    cursor: HAND;
+}
+
+.table-view {
+    -fx-background-color: #f7f7f7;
+    background-color: #f7f7f7;;
+}
+
+.table-row-cell {
+    -fx-background-color: #fff;
+    background-color: #fff;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #e0e0e0;
+    background-color: #e0e0e0;
+}
+
+.table-view .column-header .label {
+    -fx-font-weight: bold;
+    font-weight: bold;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #d9edf7;
+    background-color: #d9edf7;
+}
+
+.table-cell {
+    -fx-alignment: CENTER;
+    text-align: CENTER;
+}
+
+.table-column {
+    -fx-alignment: CENTER;
+    text-align: CENTER;
+}
+
